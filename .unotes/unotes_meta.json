@@ -1,0 +1,25 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "blog": {
+      "name": "blog",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "tcsp_project": {
+      "name": "tcsp_project",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "users": {
+      "name": "users",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    }
+  },
+  "files": {}
+}
